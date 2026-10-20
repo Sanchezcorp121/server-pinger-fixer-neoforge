@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.0 for 1.21.5
+- Added a build for Minecraft 1.21.5. No other changes.
+
 ## 1.0.0 for 1.21.4 and 1.21.8
 - Added builds for Minecraft 1.21.4 and 1.21.8. No other changes.
 
