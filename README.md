@@ -14,6 +14,8 @@ Client-side only, no dependencies, fine to put in modpacks.
 | Minecraft | NeoForge | Java |
 |---|---|---|
 | 1.21.1 | 21.1.252 or newer | 21 |
+| 1.21.4 | 21.4.161 or newer | 21 |
+| 1.21.8 | 21.8.57 or newer | 21 |
 | 1.21.10 | 21.10.64 or newer | 21 |
 | 1.21.11 | 21.11.48 or newer | 21 |
 | 26.1.2 | 26.1.2.122 or newer | 25 |
