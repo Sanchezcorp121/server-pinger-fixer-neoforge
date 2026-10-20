@@ -57,7 +57,7 @@ jobs:
         with:
           modrinth-id: ERRLRRia
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-id: REPLACE_CURSEFORGE_ID
+          curseforge-id: 1756590
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-tag: ${{ github.ref_name }}
